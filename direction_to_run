@@ -1,0 +1,10 @@
+NOTE:-
+There are two databases named images and Search_num
+Images has: Registered Vehicle
+Search: Checks if the vehicle is allowed or not.
+
+Just install requirements.txt and
+run: python3 main.py
+
+//Thank You
+Dheeraj Shah
